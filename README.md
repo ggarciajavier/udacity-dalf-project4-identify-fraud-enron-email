@@ -4,7 +4,7 @@ This repository contains the analysis performed by Javier Gómez García for the
 It includes the following files:
 
 * A Jupyter notebook containing the main program and the description of the work (Python version: 2.7):
-    Project4_Identify_Fraud_from_Enron_Email.ipynb
+    [Project4_Identify_Fraud_from_Enron_Email.ipynb](Project4_Identify_Fraud_from_Enron_Email.ipynb)
 
 * The following text files:
     * [REFERENCES](REFERENCES.md): text file containing the links to the websites and repositories I have used for my work.
